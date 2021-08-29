@@ -1,0 +1,3 @@
+- 👋 Hello, I am a drop in an ocean of Tech Geeks.
+- 💞️ I’m looking to collaborate on scripting tools in Python.
+- 📫 You can contact me by email - katemillertechs@gmail.com
